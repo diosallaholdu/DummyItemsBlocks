@@ -88,7 +88,7 @@ final class Main extends PluginBase
     }
 
     /**
-     * @param Closure(Block, ?Player): bool $closure
+     * @param Closure(Block
      */
     public static function setCanChangeStatesClosure(Closure $closure): void
     {
